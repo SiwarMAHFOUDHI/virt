@@ -8,7 +8,7 @@ url = 'https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
 parameters = {
   'start':'1',
   'limit':'5000',
-  'convert':'USD'
+  
 }
 headers = {
   'Accepts': 'application/json',
